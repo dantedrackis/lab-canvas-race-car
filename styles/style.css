@@ -17,6 +17,16 @@ body {
   width: 350px;
 }
 
+#game-over {
+  font-size: 70px;
+  color: red;
+}
+
+#win-condition {
+  font-size: 70px;
+  color: green;
+}
+
 .arrows-img {
   width: 150px;
 }
